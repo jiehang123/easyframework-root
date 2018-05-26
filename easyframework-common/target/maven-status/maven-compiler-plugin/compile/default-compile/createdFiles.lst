@@ -1,0 +1,3 @@
+org\easyframework\mapping\utils\ResultSetHelper.class
+org\easyframework\mapping\utils\ResultSetMapper.class
+org\easyframework\blog\bean\BlogCategory.class
